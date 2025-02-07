@@ -36,9 +36,10 @@ The score updates accordingly.
 2.Navigate to the project folder: cd rock-paper-scissors
 3.Open index.html in a Browser
 
-**Deployment**
-You can deploy this game using GitHub Pages:
 
+
+**Deployment**
+You can deploy this game using GitHub Pages:                    
 1.Push your code to GitHub.
 2.Go to the repository settings.
 3.Scroll down to the 'GitHub Pages' section.
